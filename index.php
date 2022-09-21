@@ -13,9 +13,6 @@
   <body>
   <div class="container-fluid text-center my-5">
 <!-- -------------------------------form_start -->
-<!-- -------------------------------form_start -->
-    <!-- -------------------------------form_start -->
-
     
     <section class="my-5 from_sec p-5 text-white bg-dark" >
      <form action="action.php" method="POST" enctype="multipart/form-data">
