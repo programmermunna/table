@@ -13,7 +13,7 @@
   <body>
   <div class="container-fluid text-center my-5">
 <!-- -------------------------------form_start -->
-    
+    <!--     -------------------------- -->
     <section class="my-5 from_sec p-5 text-white bg-dark" >
      <form action="action.php" method="POST" enctype="multipart/form-data">
         <input type="text" name="name" placeholder="Enter your Name">
